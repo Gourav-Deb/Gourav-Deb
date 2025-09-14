@@ -1,41 +1,21 @@
-<div align="center">Hi there 👋 I'm a passionate developer!</div>
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/800x200/2F3146/B8C2CC%3Ftext%3DYour%2BAwesome%2BBanner%2BHere" alt="Your awesome banner here" />
-</div>
-
+# 💫 About Me:
 <br>
 
-💻 About Me
-I'm a developer with a love for building things. I enjoy working on Applications and am always learning new technologies to improve my craft.
 
-🛠️ Skills & Tools
-Here are some of the technologies and tools I'm proficient in:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gouravd0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gouravdeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debgourav8@gmail.com) 
 
-Languages: JavaScript, Python, C , Dart
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gourav-Deb&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gourav-Deb&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Deb&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Frontend: Flutter ,Tailwind CSS
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gourav-Deb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Backend: Node.js, Express.js
+---
+[![](https://visitcount.itsvg.in/api?id=Gourav-Deb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Databases: MongoDB, 
-
-Tools: Git, GitHub, VS Code, Android Studio
-
-✨ GitHub Stats
-<div align="center">
-<!-- GitHub Stats placeholder. You can use services like https://github.com/anuraghazra/github-readme-stats to generate your own! -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyourusername%26show_icons%3Dtrue%26theme%3Ddark" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyourusername%26theme%3Ddark" alt="Your GitHub Streak" />
-</div>
-
-🤝 Let's Connect
-GitHub: Gourav-Deb
-
-LinkedIn: www.linkedin.com/in/gouravdeb
-
-Email: debgourav8@gmail.com
-
-Thanks for stopping by!
-<div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyourusername%26color%3Dblueviolet" alt="Profile views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
