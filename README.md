@@ -4,7 +4,6 @@ Hi, I'm Gourav!
  💻 Full Stack App developer        
  ⚡ Exploring AI, cloud, and automation  
  🏏 Cricket keeps me balanced on and off the field  
- 🌱 Currently learning advanced system design & mobile app development  
  🎯 Goal: Build impactful projects that solve real-world problems  
 
           
