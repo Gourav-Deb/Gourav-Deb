@@ -1,4 +1,12 @@
-#                                                                                             Hii👋
+# 👋 About Me: 
+
+Hi, I'm Gourav!  
+ 💻 Backend developer & Flutter enthusiast  
+ ⚡ Exploring AI, cloud, and automation  
+ 🏏 Cricket keeps me balanced on and off the field  
+ 🌱 Currently learning advanced system design & mobile app development  
+ 🎯 Goal: Build impactful projects that solve real-world problems  
+
           
 <br>
 
