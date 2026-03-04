@@ -2,8 +2,7 @@
 
 Hi, I'm Gourav!  
  💻 Full Stack App developer        
- ⚡ Exploring
- 🏏 Cricket keeps me balanced on and off the field  
+ ⚡ Exploring  
  🎯 Goal: Build impactful projects that solve real-world problems  
 
           
